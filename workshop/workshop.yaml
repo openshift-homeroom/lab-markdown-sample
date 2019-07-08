@@ -1,0 +1,8 @@
+name: Markdown Sample
+
+modules:
+    activate:
+    - index
+    - setup
+    - exercises/01-sample-content
+    - finish
