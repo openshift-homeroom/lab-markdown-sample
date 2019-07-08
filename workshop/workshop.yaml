@@ -2,7 +2,7 @@ name: Markdown Sample
 
 modules:
     activate:
-    - index
-    - setup
+    - workshop-overview
+    - setup-environment
     - exercises/01-sample-content
-    - finish
+    - workshop-summary
