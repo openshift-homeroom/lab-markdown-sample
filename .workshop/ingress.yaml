@@ -4,4 +4,4 @@ metadata:
   name: spawner
   annotations:
     homeroom/title: "Markdown Sample"
-    homeroom/description: "A sample workshop using Markdown"
+    homeroom/description: "A sample workshop using Markdown."
