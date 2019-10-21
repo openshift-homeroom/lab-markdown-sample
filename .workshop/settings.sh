@@ -1,5 +1,5 @@
 WORKSHOP_NAME=lab-markdown-sample
-WORKSHOP_IMAGE=quay.io/openshifthomeroom/lab-markdown-sample:1.8
+WORKSHOP_IMAGE=quay.io/openshifthomeroom/lab-markdown-sample:1.9
 WORKSHOP_TITLE="Markdown Sample"
 WORKSHOP_DESCRIPTION="A sample workshop using Markdown"
 RESOURCE_BUDGET=medium
